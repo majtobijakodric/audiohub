@@ -1,0 +1,6 @@
+.env
+/storage/music/
+/storage/logs/
+/vendor/
+/node_modules/
+.DS_Store
